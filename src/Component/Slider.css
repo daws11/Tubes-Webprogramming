@@ -1,0 +1,9 @@
+#App{
+    position: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    display: block;
+    width: 50%;
+}
