@@ -7,6 +7,45 @@ p{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    margin: 1cm;
-    color: #fff;
+    margin-top: 3cm ;
+    color: rgb(37, 146, 219);
 }
+
+Form{
+    text-align: center;
+    margin: 24px;
+    margin-top: 2cm;
+}
+
+.btn-light{
+    margin-left: 16cm;
+    margin-bottom: 40px;
+}
+
+.figure{
+    margin: 40px;
+    text-align: center;
+}
+
+.card-group{
+    margin: 50px;
+}
+
+.row{
+    text-decoration: solid;
+    text-align: center;
+}
+
+.promo{
+    text-align: left;
+    text-align-last: center;
+}
+
+.carousel{
+    margin-bottom: 70px;
+}
+
+
+
+
+
