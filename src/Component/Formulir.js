@@ -4,7 +4,6 @@ import Button from 'react-bootstrap/Button';
 import Col from 'react-bootstrap/Col';
 import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
-import './Formulir.css';
 
 function Formulir() {
     const [setDate] = useState();
@@ -23,7 +22,7 @@ function Formulir() {
         </Col>
       </Row>
     </Form>
-    <Button variant="primary">Cari Tiket !</Button>
+    <Button variant="light" >Cari Tiket !</Button>
         </>
     );
 }

@@ -4,6 +4,9 @@ import Navbar from './Component/Navbar';
 import Slider from './Component/Slider';
 import Card from './Component/Card';
 import Formulir from './Component/Formulir';
+import Hero from './Component/Hero';
+import Footer from './Component/Footer';
+
 
 function App() {
   return (
@@ -14,8 +17,8 @@ function App() {
         <Formulir/>
         <p>Berikut adalah trayek andalan kami</p>
         <Card/>
-        <p>Perjalanan Anda</p>
-        <p>Aman bersama kami</p>
+       <Hero/>
+       <Footer/>
        
     </div>
   );
